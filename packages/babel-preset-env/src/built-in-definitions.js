@@ -16,7 +16,7 @@ export const definitions = {
     Int16Array: "es6.typed.int16-array",
     Int32Array: "es6.typed.int32-array",
     Map: ["es6.map"].concat(CommonIterators),
-    Number: "6es.number.constructor",
+    Number: "es6.number.constructor",
     Promise: ["es6.object.to-string", "es6.promise"],
     RegExp: ["es6.regexp.constructor"],
     Set: ["es6.set"].concat(CommonIterators),
