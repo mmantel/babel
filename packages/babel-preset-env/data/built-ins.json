@@ -364,7 +364,7 @@
   "es6.reflect.construct": {
     "chrome": "49",
     "edge": "13",
-    "firefox": "44",
+    "firefox": "45",
     "safari": "10",
     "node": "6",
     "ios": "10",
@@ -1150,6 +1150,7 @@
     "chrome": "63",
     "firefox": "58",
     "safari": "11.1",
+    "ios": "11.3",
     "opera": "50"
   },
   "es7.symbol.async-iterator": {
